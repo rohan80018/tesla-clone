@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployed Link
+Open [tesla-clone-link](https://tesla-clone-c07fc.web.app) to view it in browser
 
 ## Available Scripts
 
